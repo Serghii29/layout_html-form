@@ -1,1 +1,8 @@
 /* styles go here */
+.form .information-block:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.information-block .form-field:not(:last-child) {
+  margin-bottom: 10px;
+}
